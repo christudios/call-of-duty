@@ -141,8 +141,6 @@ header .barraNavegacion .ul .li .link:hover{
 .orbi {
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
-
-
 }
 
 a {
@@ -150,6 +148,9 @@ a {
   font-size: 3rem;
 }
 
+#galeri :target {
+  color: var(--font-cod-title)
+  }
 
 .wa {
   position: relative;

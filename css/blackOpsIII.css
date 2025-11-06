@@ -110,12 +110,16 @@ header .barraNavegacion .ul .li .link:hover{
     font-weight: 900;
 
 }
+.contento{
+    padding: 1rem;
+    padding-top: 4rem;
+    max-width: 1840px;
+    margin: 0 auto;
+}
 .hero{
     position: relative;
-    width: 95%;
-    margin: 0 auto;
-    margin-top: 3rem;
-    padding-bottom: 56%; 
+    width: 100%;
+    padding-bottom: 56.25%; 
     height: 0;
     overflow: hidden;
 
